@@ -10,7 +10,6 @@ public class Start {
         System.out.println(calcFak3(5));
 
         inputSum();
-
     }
 
 

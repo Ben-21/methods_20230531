@@ -7,7 +7,7 @@ public class Start {
         System.out.println(printSumPlusString(10, 20));
         System.out.println(calcFak1(5));
         System.out.println(calcFak2(5));
-        System.out.println(calcFak3(5));
+        System.out.println(calcFak3(5)); // hello from collaborator
 
         inputSum();
     }
